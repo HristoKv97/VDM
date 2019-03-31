@@ -1,9 +1,9 @@
 -- CSC2021 Coursework 2 2018
 -- Name: Hristo Kovachev
--- StdNo: 160359378
+
 
 -- Electronic purse model based on Mondex specification
--- See coursework specification in Blackboard for more detail.
+
 
 
 types
